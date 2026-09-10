@@ -277,6 +277,47 @@ main {
   letter-spacing: 0.5px;
 }
 
+/* Promociones */
+.promo-encabezado {
+  background-color: var(--carbon);
+  color: var(--hueso);
+  border-bottom: 4px solid var(--brasa);
+}
+
+.promo-destacada {
+  border-left: 6px solid var(--brasa);
+  box-shadow: var(--sombra);
+}
+
+.promocion-card {
+  border: none;
+  border-radius: var(--radio);
+  box-shadow: var(--sombra);
+  overflow: hidden;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.promocion-card:hover {
+  transform: translateY(-5px);
+}
+
+.promocion-card .card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+.precio-anterior {
+  color: var(--humo);
+  text-decoration: line-through;
+}
+
+.precio-promo {
+  font-family: var(--fuente-titulos);
+  color: var(--brasa);
+  font-weight: 600;
+  font-size: 1.25rem;
+}
+
 @media (max-width: 575.98px) {
   .hero {
     min-height: 92vh;
