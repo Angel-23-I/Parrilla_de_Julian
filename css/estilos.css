@@ -389,6 +389,17 @@ main {
   color: #fff;
 }
 
+/* Confirmación visual del formulario (sin JavaScript) */
+.confirmacion-envio {
+  display: none;
+  scroll-margin-top: 5rem;
+  box-shadow: var(--sombra);
+}
+
+.confirmacion-envio:target {
+  display: block;
+}
+
 /* Validación visual del teléfono (sin JavaScript) */
 .formulario-contacto #telefono:not(:placeholder-shown):invalid {
   border-color: var(--brasa);
