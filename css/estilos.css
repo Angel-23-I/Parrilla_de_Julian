@@ -1,0 +1,82 @@
+:root {
+  --carbon: #1c1a17;
+  --carbon-claro: #2b2723;
+  --brasa: #b3271e;
+  --fuego: #e07a2c;
+  --dorado: #c9a227;
+  --hueso: #f5f0e6;
+  --humo: #6c6460;
+
+  --fuente-titulos: "Oswald", sans-serif;
+  --fuente-texto: "Lora", serif;
+}
+
+body {
+  font-family: var(--fuente-texto);
+  background-color: var(--hueso);
+  color: var(--carbon);
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+h1, h2, h3, .navbar-brand {
+  font-family: var(--fuente-titulos);
+}
+
+.navbar-parrilla {
+  background-color: var(--carbon);
+  border-bottom: 3px solid var(--brasa);
+}
+
+.navbar-parrilla .navbar-brand {
+  color: var(--hueso);
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+.navbar-parrilla .navbar-brand i {
+  color: var(--fuego);
+}
+
+.navbar-parrilla .nav-link {
+  color: var(--hueso);
+}
+
+.navbar-parrilla .nav-link:hover,
+.navbar-parrilla .nav-link.active {
+  color: var(--fuego);
+}
+
+main {
+  flex: 1;
+}
+
+.titulo-provisional {
+  color: var(--brasa);
+}
+
+.footer-parrilla {
+  background-color: var(--carbon);
+  color: var(--hueso);
+  border-top: 3px solid var(--brasa);
+}
+
+.footer-parrilla a {
+  color: var(--hueso);
+  text-decoration: none;
+}
+
+.footer-parrilla a:hover {
+  color: var(--fuego);
+}
+
+.footer-parrilla .redes a {
+  font-size: 1.4rem;
+  margin-right: 0.75rem;
+}
+
+.footer-copy {
+  background-color: var(--carbon-claro);
+  font-size: 0.9rem;
+}
