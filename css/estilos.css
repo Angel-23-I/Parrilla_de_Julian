@@ -248,6 +248,35 @@ main {
   font-size: 0.9rem;
 }
 
+/* Menú */
+.menu-encabezado {
+  background-color: var(--carbon);
+  color: var(--hueso);
+  border-bottom: 4px solid var(--brasa);
+}
+
+.categoria-titulo {
+  font-weight: 600;
+}
+
+.categoria-titulo i {
+  color: var(--brasa);
+}
+
+.separador-izq {
+  width: 72px;
+  height: 4px;
+  background-color: var(--fuego);
+  border-radius: 4px;
+  margin-top: 0.5rem;
+}
+
+.badge-brasa {
+  background-color: var(--brasa);
+  font-family: var(--fuente-titulos);
+  letter-spacing: 0.5px;
+}
+
 @media (max-width: 575.98px) {
   .hero {
     min-height: 92vh;
