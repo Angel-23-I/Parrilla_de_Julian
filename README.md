@@ -1,7 +1,7 @@
 # 🔥 Parrilla de Julián
 
-ESTUDIANTE: Angel David Infante Espinel
-Asignatura: Desarrollo Full Stack con IA
+ESTUDIANTE: Angel David Infante Espinel;
+Asignatura: Desarrollo Full Stack con IA;
 DOCENTE: Carlos Carrascal
 
 ### Restaurante · Parrilla · Sabor
@@ -53,12 +53,6 @@ Es un proyecto académico/frontend y no posee backend.
 | `promociones.html` | Promoción principal y 3 promociones |
 | `nosotros.html` | Historia, misión, visión, valores y propuesta |
 | `contacto.html` | Información y formulario de contacto |
-
-## 📸 Vista del proyecto
-
-Este repositorio aún no incluye capturas de pantalla del sitio.
-
-Cuando existan, se agregarán en esta sección. Mientras tanto puedes ver el diseño abriendo `index.html` en el navegador.
 
 ## 🍽️ Menú
 
