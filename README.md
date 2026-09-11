@@ -13,7 +13,7 @@ DOCENTE: Carlos Carrascal
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Responsive](https://img.shields.io/badge/Responsive-Design-2ea44f?style=for-the-badge)
 
-![Parrilla de Julián](img/hero-parrilla.jpg)
+
 
 ## 🍖 Sobre el proyecto
 
