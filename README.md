@@ -1,7 +1,9 @@
 # 🔥 Parrilla de Julián
 
-ESTUDIANTE: Angel David Infante Espinel;
-Asignatura: Desarrollo Full Stack con IA;
+ESTUDIANTE: Angel David Infante Espinel
+
+Asignatura: Desarrollo Full Stack con IA
+
 DOCENTE: Carlos Carrascal
 
 ### Restaurante · Parrilla · Sabor
