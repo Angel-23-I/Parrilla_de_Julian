@@ -1,5 +1,9 @@
 # 🔥 Parrilla de Julián
 
+ESTUDIANTE: Angel David Infante Espinel
+Asignatura: Desarrollo Full Stack con IA
+DOCENTE: Carlos Carrascal
+
 ### Restaurante · Parrilla · Sabor
 
 > Sitio web responsive para un restaurante de parrilla, desarrollado como proyecto académico utilizando HTML5, CSS3 y Bootstrap 5.3.
